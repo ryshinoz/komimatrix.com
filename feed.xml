@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Blog Name</title>
+  <subtitle>Blog subtitle</subtitle>
+  <id>http://blog.url.com/</id>
+  <link href="http://blog.url.com/"/>
+  <link href="http://blog.url.com/feed.xml" rel="self"/>
+  <updated>2014-05-11T22:30:00+09:00</updated>
+  <author>
+    <name>Blog Author</name>
+  </author>
+  <entry>
+    <title>Middleman</title>
+    <link rel="alternate" href="http://blog.url.com/2014/05/11/middleman/"/>
+    <id>http://blog.url.com/2014/05/11/middleman/</id>
+    <published>2014-05-11T22:30:00+09:00</published>
+    <updated>2015-04-29T00:02:15+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>日本語テスト</title>
+    <link rel="alternate" href="http://blog.url.com/2014/05/10/exmaple/"/>
+    <id>http://blog.url.com/2014/05/10/exmaple/</id>
+    <published>2014-05-10T10:00:00+09:00</published>
+    <updated>2015-04-29T00:02:15+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h3 id="テストリスト"&gt;テストリスト&lt;/h3&gt;
+&lt;pre class="highlight ruby"&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;my_cool_method&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;message&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+  &lt;span class="nb"&gt;puts&lt;/span&gt; &lt;span class="n"&gt;message&lt;/span&gt;
+&lt;span class="k"&gt;end&lt;/span&gt;
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1&lt;/li&gt;
+&lt;li&gt;2&lt;/li&gt;
+&lt;li&gt;3&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href="http://www.yahoo.co.jp"&gt;yahoo.co.jp&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;なんかありませんなぁ&lt;/p&gt;
+
+&lt;h3 id="テスト3"&gt;テスト3&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;a&lt;/li&gt;
+&lt;li&gt;b&lt;/li&gt;
+&lt;li&gt;c&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;もっといろいろ話さないといけないな&lt;/p&gt;
+</content>
+  </entry>
+</feed>
